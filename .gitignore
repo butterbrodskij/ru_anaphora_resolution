@@ -1,0 +1,5 @@
+/ForTest
+/__pycache__
+*.pickle
+*.zip
+example.txt
